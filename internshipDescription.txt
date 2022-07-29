@@ -1,0 +1,3 @@
+Made by Yann and Soufiane
+VueJs and Strapi 
+@EmisAgency, StationF, Paris
